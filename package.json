@@ -1,0 +1,24 @@
+{
+  "name": "hello-world-javascript-action",
+  "version": "1.0.0",
+  "description": "Learning about GitHub actions for JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenbeltran/hello-world-javascript-action.git"
+  },
+  "keywords": [],
+  "author": "Jen Beltran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenbeltran/hello-world-javascript-action/issues"
+  },
+  "homepage": "https://github.com/jenbeltran/hello-world-javascript-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
